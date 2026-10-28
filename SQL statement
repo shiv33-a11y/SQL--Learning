@@ -1,0 +1,8 @@
+SQL-Practice/
+├── README.md
+├── 01_DDL_Statements.sql
+├── 02_DML_Statements.sql
+├── 03_DQL_Statements.sql
+├── 04_DCL_Statements.sql
+└── 05_TCL_Transactions.sql
+
